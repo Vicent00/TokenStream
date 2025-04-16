@@ -15,7 +15,7 @@ TokenStream DEX provides a robust platform for token trading with the following 
 
 ## Screenshots
 
-![DEX Interface](screenshots\structure.svg) <!-- Replace with actual screenshot -->
+![DEX Interface](screenshots\structure.png) <!-- Replace with actual screenshot -->
 *TokenStream DEX Interface*
 
 
